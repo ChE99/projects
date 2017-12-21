@@ -1,1 +1,1 @@
-# projects
+# Python and SQL coding projects
