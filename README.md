@@ -1,1 +1,1 @@
-# Python and SQL coding projects
+# Data science projects in Python
